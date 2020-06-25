@@ -10,3 +10,9 @@
 
 * Python 3.7.4
 * Pycharm
+
+## 目录介绍
+* test/ 中的是练习代码
+* spider.py 是爬虫文件
+* move.db 是产生的数据库
+
